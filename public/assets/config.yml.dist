@@ -71,14 +71,14 @@ services:
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app"
+      - name: "Tecnual APP"
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"
-        keywords: "self hosted reddit"
-        url: "https://www.reddit.com/r/selfhosted/"
+        keywords: "app tecnual"
+        url: "https://www.tecnual.com"
         target: "_blank" # optional html a tag target attribute
-      - name: "Another one"
+      - name: "Otra"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
         tag: "app"
