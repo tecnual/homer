@@ -51,9 +51,9 @@ message:
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
-  - name: "Contribute"
+  - name: "Config"
     icon: "fab fa-github"
-    url: "https://github.com/bastienwirtz/homer"
+    url: "https://github.com/tecnual/homer/blob/main/public/assets/config.yml.dist"
     target: "_blank" # optional html a tag target attribute
   - name: "Wiki"
     icon: "fas fa-book"
